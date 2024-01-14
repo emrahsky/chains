@@ -2153,9 +2153,9 @@
     "symbol": "BTT",
     "decimals": 18
   },
-  "rpc": ["https://rpc.bittorrentchain.io/"],
+  "rpc": ["https://rpc.bt.io"],
   "faucets": [],
-  "infoURL": "https:/bt.io"
+  "infoURL": "https://bt.io"
 }, {
   "name": "Arbitrum on xDai",
   "chainId": 200,
@@ -3496,7 +3496,7 @@
   "faucets": [],
   "infoURL": "https://ace.fusionist.io/"
 }, {
-  "name": "Kalichain Mainnet",
+  "name": "Kalichain Testnet",
   "chainId": 653,
   "shortName": "kalichain",
   "networkId": 653,
@@ -14360,7 +14360,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://blockscout-poa.huabeizhenxuan.com"],
+  "rpc": ["https://devchain-poa.huabeizhenxuan.com"],
   "faucets": [],
   "infoURL": ""
 }, {
@@ -15569,9 +15569,9 @@
     "symbol": "PALM",
     "decimals": 18
   },
-  "rpc": ["https://palm-testnet.infura.io/v3/${INFURA_API_KEY}"],
+  "rpc": ["https://palm-testnet.infura.io/v3/${INFURA_API_KEY}", "https://palm-testnet.public.blastapi.io"],
   "faucets": [],
-  "infoURL": "https://palm.io"
+  "infoURL": "https://palm.network"
 }, {
   "name": "Palm",
   "chainId": 11297108109,
@@ -15582,9 +15582,9 @@
     "symbol": "PALM",
     "decimals": 18
   },
-  "rpc": ["https://palm-mainnet.infura.io/v3/${INFURA_API_KEY}"],
+  "rpc": ["https://palm-mainnet.infura.io/v3/${INFURA_API_KEY}", "https://palm-mainnet.public.blastapi.io"],
   "faucets": [],
-  "infoURL": "https://palm.io"
+  "infoURL": "https://palm.network"
 }, {
   "name": "Alphabet Mainnet",
   "chainId": 111222333444,
